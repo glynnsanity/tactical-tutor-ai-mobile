@@ -31,3 +31,4 @@ coverage/
 /data/
 *.sqlite
 *.sqlite-journal
+data/
